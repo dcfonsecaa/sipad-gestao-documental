@@ -5,8 +5,8 @@ Sistema Integrado de Plano de Classificação e Tabela de Temporalidade de Docum
 ## Registro de Software
 - Registro no INPI: BR512025002920-9
 - Tipo: Programa de Computador
-- Titular: Universidade (conforme registro)
-- Autoria: (conforme certificado)
+- Titular: Universidade Federal de Uberlândia
+- Autoria: Denis Cezar Fonseca
 
 ## Observação
 Este repositório tem caráter informativo e institucional. O código-fonte do sistema não é disponibilizado publicamente.
